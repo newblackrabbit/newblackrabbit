@@ -5,8 +5,9 @@
 ![newblackrabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=newblackrabbit&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cholyounhyeong)](https://solved.ac/cholyounhyeong/)
+
+[![코드트리|실력진단-newblackrabbit](https://banner.codetree.ai/v1/banner/newblackrabbit)](https://www.codetree.ai/profiles/newblackrabbit)
 ## SKILLS ✨
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-[![코드트리|실력진단-newblackrabbit](https://banner.codetree.ai/v1/banner/newblackrabbit)](https://www.codetree.ai/profiles/newblackrabbit)
